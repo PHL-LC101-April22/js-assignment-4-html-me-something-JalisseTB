@@ -1,1 +1,78 @@
 /* Write your CSS here! */
+body {
+    text-align: left;
+    background-color:white;
+    color: black; 
+    font-family: Monaco;
+    font-size: 20px; 
+    margin: 8px;
+    display: block;
+}
+
+ header {
+     font-size: 30px;
+ 
+ }
+
+#mainHeading {
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+p {
+ font-size:18px ;
+ margin: 8px;
+ padding-bottom: 8px;
+}
+
+h1 {
+font-size: 20px;
+margin: 8px;
+ padding-bottom: 8px;
+}
+h2 {
+ font-size: 20px;  
+ margin: 8px;
+ padding-bottom: 8px;
+
+}
+h3 {
+    font-size: 20px;
+    margin: 8px;
+ padding-bottom: 8px;
+}
+h4 {
+    font-size: 20px;
+    margin: 8px;
+ padding-bottom: 8px;
+}
+h5 {
+    font-size: 20px;
+    margin: 8px;
+ padding-bottom: 8px;
+}
+h6 {
+    font-size: 20px;
+    margin: 8px;
+ padding-bottom: 8px;
+}
+.video1 {
+    position: relative;
+    width: 80%;
+    padding-bottom: 50%;
+    height: 0%
+    display: block;
+  margin: auto;
+}
+.video1 iframe {
+    position: absolute;
+    top:0;
+    left:0;
+    width: 60%;
+    height: 60%;
+}
+.funParagraph {
+  color: green;  
+}
